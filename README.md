@@ -1,4 +1,4 @@
-# piaf-vue
+# vue admin panel with datatables
 
 ## Project setup
 ```
